@@ -3,6 +3,7 @@
   "displayName": "uniCodeConverterFiles",
   "description": "This extension let you change your current content to uniCode of special characters",
   "repository": "TheAndtor",
+  "publisher": "TheAndtor",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
