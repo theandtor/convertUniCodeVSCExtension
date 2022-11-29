@@ -14,11 +14,11 @@ Convert any case type to specified by command
 
 This extension contributes the following settings:
 
-* `unicodeconverterfiles.convertFile`: UniCode Convert File
+* `theandtor.unicodeconverterfiles.convertFile`: TAR UniCode Convert File
 * `theandtor.convertConstant.CamelCase`: TAR CamelCase
 * `theandtor.convertConstant.camelCase`: TAR camelCase
-* `theandtor.convertConstant.SCREAMING_SNAKE_CASE`: TAR Constants SCREAMING_SNAKE_CASE
-* `theandtor.convertConstant.snake_case`: TAR snake_case
+* `theandtor.convertConstant.SCREAMING_SNAKE_CASE`: TAR Constants (SCREAMING_SNAKE_CASE)
+* `theandtor.convertConstant.snake_case`: TAR PHP (snake_case)
 * `theandtor.convertConstant.kebab-case`: TAR HTML (kebab-case)
 
 ## Known Issues
