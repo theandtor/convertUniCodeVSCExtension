@@ -4,7 +4,7 @@
   "description": "This extension let you change your current content to uniCode of special characters",
   "repository": "TheAndtor",
   "publisher": "TheAndtor",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.73.0"
   },
@@ -28,23 +28,23 @@
       },
       {
         "command": "theandtor.convertConstant.CamelCase",
-        "title": "TAR CamelCase"
+        "title": "TAR CASE: CamelCase"
       },
       {
         "command": "theandtor.convertConstant.camelCase",
-        "title": "TAR camelCase"
+        "title": "TAR CASE: camelCase"
       },
       {
         "command": "theandtor.convertConstant.SCREAMING_SNAKE_CASE",
-        "title": "TAR Constants (SCREAMING_SNAKE_CASE)"
+        "title": "TAR CASE: Constants (SCREAMING_SNAKE_CASE)"
       },
       {
         "command": "theandtor.convertConstant.snake_case",
-        "title": "TAR PHP (snake_case)"
+        "title": "TAR CASE: PHP (snake_case)"
       },
       {
         "command": "theandtor.convertConstant.kebab-case",
-        "title": "TAR HTML (kebab-case)"
+        "title": "TAR CASE: HTML (kebab-case)"
       }
     ]
   },
